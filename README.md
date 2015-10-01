@@ -1,2 +1,2 @@
 # Java-Projects
-Different games that I have written in Java
+A variety of games that have been coded in Java, with the help of Lewis & Clark College CS professor Peter Drake.
